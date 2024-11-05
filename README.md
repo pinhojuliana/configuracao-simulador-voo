@@ -95,8 +95,7 @@ Os códigos usados para comunicação com o simulador e os displays são os segu
 ---
 
 ## 🚀 Observações 
-- Esses 2 códigos foram escritos por Inteligência Artificial com base nos comandos que fui dando
-- Ainda não testei o funcionamento no simulador
+- O funcioamento no simulador ainda não foi testado
 ---
 
 ## 🤝 Contribuições
